@@ -40,4 +40,5 @@ chromedriver.exe
 
 # OS specific
 .DS_Store
+
 Thumbs.db 
